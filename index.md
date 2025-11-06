@@ -23,6 +23,10 @@ Multiline Code Block
   npm install -g meow@latest
 ```
 
+```javascript
+  console.log('hello, github')
+```
+
 Inline Code
 
 `
@@ -31,3 +35,4 @@ Inline Code
 
 Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
