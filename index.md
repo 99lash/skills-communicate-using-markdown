@@ -5,19 +5,19 @@
 
 _Italic_
 
-Unordered List
+### Unordered List
 
 - item1
 - item2
 - item3
 
-Ordered List
+### Ordered List
 
 1. item1
 2. item2
 3. item3
 
-Multiline Code Block
+### Multiline Code Block
 
 ```bash
   npm install -g meow@latest
@@ -27,12 +27,17 @@ Multiline Code Block
   console.log('hello, github')
 ```
 
-Inline Code
+### Inline Code
 
 `
   this is inline code
 `
 
-Image
+### Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+### Task List
+- [x] Headers
+- [x] Image
+- [x] Code Block
+- [x] Task List
